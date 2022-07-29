@@ -111,11 +111,13 @@ body {
 @media only screen and (max-width: 500px)
 {
     
-    circle:hover:disabled
+    .circle:hover{
+        pointer-events: none;
+    }
 
-    .circle:active {
+    .circle:focus {
         box-shadow: 0 0 3em hsl(150, 100%, 66%);
-        transition: 0;
+        transition: 0ms;
     }
     
     .attribution{
