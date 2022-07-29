@@ -110,6 +110,15 @@ body {
 
 @media only screen and (max-width: 500px)
 {
+    
+    .circle:hover{
+        pointer-events: none;
+    }
+
+    .circle::touch-action {
+        box-shadow: 0 0 3em hsl(150, 100%, 66%);
+    }
+
     .attribution{
         width: 90%;
     }
