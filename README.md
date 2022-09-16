@@ -1,6 +1,10 @@
 # Frontend Mentor - Advice generator app solution
 
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
+
+### Links
+
+- Solution URL: https://github.com/mmubashshir/advice-generator
+- Live Site URL: https://mmubashshir.github.io/advice-generator/
 
 ## Table of contents
 
@@ -30,10 +34,6 @@ Users should be able to:
 
 ![](./images/screenshot.png)
 
-### Links
-
-- Solution URL: https://github.com/mmubashshir/advice-generator
-- Live Site URL: https://mmubashshir.github.io/advice-generator/
 
 ## My process
 
